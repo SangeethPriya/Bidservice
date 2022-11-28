@@ -19,6 +19,7 @@
 		**/com/auction/management/buyer/util/*,
 		**/com/auction/management/buyer/entity/*,
 		**/com/auction/management/buyer/exception/*,
+		**com/auction/management/buyer/config/*,
 		**/com/auction/management/buyer/*Application.java
 		</sonar.coverage.exclusions>
 	</properties>
